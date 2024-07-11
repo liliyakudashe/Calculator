@@ -43,7 +43,6 @@ public class RomanNumerals {
                 num -= values[i];
             }
         }
-
         return sb.toString();
     }
 }
